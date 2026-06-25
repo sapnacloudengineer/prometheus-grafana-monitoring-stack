@@ -279,13 +279,3 @@ stress --cpu 2 --timeout 300
 | ![pending](screenshots/prometheus_alert_pending.png) | ![firing](screenshots/prometheus_firing_alert.png) |
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:1565c0,100:0d1b2a&height=120&section=footer" />
-
-**Made with ❤️ by Sapna Kumari**
-
-![Views](https://komarev.com/ghpvc/?username=sapnakumari&color=00BCD4&style=flat-square&label=Profile+Views)
-
-</div>
