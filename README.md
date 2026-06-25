@@ -276,7 +276,7 @@ stress --cpu 2 --timeout 300
 
 | Alert Pending | Alert Firing |
 |:---:|:---:|
-| ![pending](screenshots/alert_pending.png) | ![firing](screenshots/firing_alert.png) |
+| ![pending](screenshots/prometheus_alert_pending.png) | ![firing](screenshots/prometheus_firing_alert.png) |
 
 ---
 
